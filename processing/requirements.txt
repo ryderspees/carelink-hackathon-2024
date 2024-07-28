@@ -1,0 +1,7 @@
+arcgis
+spacy
+flask
+python-dotenv
+re
+pyproj
+math
